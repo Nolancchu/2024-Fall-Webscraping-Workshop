@@ -6,12 +6,9 @@ For this notebook you need:
 
 Use pip or conda or homebrew or whatever it does not matter.
 
-Resources
-
-Documentation
-
 Requests: https://docs.python-requests.org/
 BeautifulSoup: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+Selenium: https://www.selenium.dev/documentation/
 
 Practice Websites
 
