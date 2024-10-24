@@ -1,3 +1,5 @@
+Presentation link: https://docs.google.com/presentation/d/1VfhlIW8TrADSm3YkxzJ0jqfDvtNvgdI_8WTR7vcsV2Y/edit#slide=id.ge612f418ce_0_0
+
 For this notebook you need:
 - pandas
 - requests
