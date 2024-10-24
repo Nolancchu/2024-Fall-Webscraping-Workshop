@@ -9,6 +9,9 @@ Use pip or conda or homebrew or whatever it does not matter.
 Requests: https://docs.python-requests.org/
 BeautifulSoup: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 Selenium: https://www.selenium.dev/documentation/
+Geeks4Geeks Web Scraping with Amazon Customer Reviews Tutorial: https://www.geeksforgeeks.org/web-scraping-amazon-customer-reviews/?ref=oin_asr10  
+HTML Explained: https://www.w3schools.com/html/html_intro.asp 
+Further explanation on robots.txt: https://www.zenrows.com/blog/robots-txt-web-scraping#web-scraping-using-robots-txt-steps 
 
 Practice Websites
 
